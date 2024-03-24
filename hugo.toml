@@ -1,4 +1,4 @@
 baseURL = 'https://sreehari32.github.io/blog/'
 languageCode = 'en-us'
-title = 'Sreehari Blog'
+title = 'Le Blog'
 theme='HugoTex'
