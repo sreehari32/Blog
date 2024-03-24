@@ -3,7 +3,7 @@ title = "Shortcodes"
 description = "A description of theme-specific shortcodes"
 date = "2021-06-21"
 author = "Hugo Authors"
-draft: True
+publishResources: false
 +++
 
 Tips for sidenotes.
