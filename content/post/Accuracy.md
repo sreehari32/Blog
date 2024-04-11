@@ -72,7 +72,7 @@ $$
     <br>
     We have two models Model 1 and Model 2 which returns probability as its output. <div>The condition to calculate the predicted labels **y_pred_1** and **y_pred_2** is such that any value > 0.5 is considered as 1 and any value <0.5 is considered as 0.
 
-    ![alt text](../MyBlog/assets/img1.png)
+    ![alt text](../../assets/img1.png)
 
     If we compare, model_1 and model_2, both have the same accuracy value.
     But through observation, we can understand that model_1 is better than model_2.</div><b>
