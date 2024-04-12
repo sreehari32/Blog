@@ -27,9 +27,7 @@ footnoteReturnLinkContents = "^"
       unsafe = true
   [markup.highlight]
     style = "paraiso-dark"
-  [markup.goldmark.renderHooks]
-    [markup.goldmark.renderHooks.image]
-      enableDefault = true
+ 
 
 
 [Params]
