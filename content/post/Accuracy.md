@@ -74,6 +74,8 @@ $$
 
     ![Example image](static/accuracy_1.png)
     ![alt text](../../static/accuracy_1.png)
+    ![alt text](static/accuracy_1.png)
+    ![alt text](accuracy_1.png)
     If we compare, model_1 and model_2, both have the same accuracy value.
     But through observation, we can understand that model_1 is better than model_2.</div><b>
     so Accuracy cannot use be used as a performance measure for models that returns probablity scores</b>
