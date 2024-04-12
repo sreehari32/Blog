@@ -71,7 +71,10 @@ $$
     Accuracy is not the suitable model to evaluate the model that return probability scores. Lets understand this with an example  
     <br>
     We have two models Model 1 and Model 2 which returns probability as its output. <div>The condition to calculate the predicted labels **y_pred_1** and **y_pred_2** is such that any value > 0.5 is considered as 1 and any value <0.5 is considered as 0.
-
+    <img src="../../accuracy_1.png" alt="alt text">
+    <img src="static/accuracy_1.png" alt="alt text">
+    <img src="accuracy_1.png" alt="alt text">
+    <img src="../../static/accuracy_1.png" alt="alt text">
     ![Example image](static/accuracy_1.png)
     ![alt text](../../static/accuracy_1.png)
     ![alt text](static/accuracy_1.png)
