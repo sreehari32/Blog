@@ -1,6 +1,6 @@
 +++
 author = "Sreehari Rajamohan"
-title = "Exploring LLMs: The New Frontier of Generative AI"
+title = "Part 1: Exploring LLMs- The New Frontier of Generative AI"
 date = "2024-04-17"
 description = " "
 tags = [
